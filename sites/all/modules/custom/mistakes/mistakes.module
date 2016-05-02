@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Mistakes feature.
+ */
+
+include_once 'mistakes.features.inc';
