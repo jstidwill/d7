@@ -7,13 +7,12 @@
   margin-bottom: 10px;
 }
 .navbar-default .navbar-nav > .active > a {
-  color: #fff;
+  color: #777;
   background-color: transparent;
 }
 
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-nav > .active > a:hover {
-  color: rgba(255, 255, 255, .8);
   background-color: transparent;
 }
 
