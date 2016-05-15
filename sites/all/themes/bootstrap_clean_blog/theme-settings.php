@@ -64,10 +64,4 @@ function bootstrap_clean_blog_form_system_theme_settings_alter(&$form, $form_sta
     '#title' => t('Twitter'),
     '#default_value' => theme_get_setting('social_twitter'),
   );
-
-  $form['social_buttons']['social_github'] = array(
-    '#type' => 'textfield',
-    '#title' => t('Github'),
-    '#default_value' => theme_get_setting('social_github'),
-  );
 }
