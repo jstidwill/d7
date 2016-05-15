@@ -24,3 +24,11 @@
 .navbar-brand {
   display: none;
 }
+
+.intro-header {
+  margin-bottom: 0;
+}
+
+.image-caption {
+  font-size: 0.7em;
+}
